@@ -6,3 +6,5 @@ described at
 Wang, K. et al. (2020): Multi-sensor data merging of sea ice concentration and 
    thickness. Advances in Polar Science, DOI:10.13679/J.ADVPS.2019.0016.
 
+for citing this code, see [![DOI](https://zenodo.org/badge/473923694.svg)](https://zenodo.org/badge/latestdoi/473923694)
+
